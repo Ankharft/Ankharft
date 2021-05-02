@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ankharft
-- 👀 I’m interested in learn somethings
+- 👀 I’m interested in java/js
 - 🌱 I’m currently learning java/javascript
 - 📫 You can reach me on Discord (Ankharft#6064)
